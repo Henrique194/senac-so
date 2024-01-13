@@ -1,0 +1,8 @@
+
+hc:S5276€"Timplicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'(¸Çß
+Fc:S3646+".Declare this variable in a separate statement.(“Çˆ¥ÿÿÿÿÿ
+~c:S9957"lMake the type of this parameter a pointer-to-const. The current type of "conn" is "struct fuse_conn_info *".(Üéç«
+ˆc:S995@"jMake the type of this parameter a pointer-to-const. The current type of "fi" is "struct fuse_file_info *".(Û…¶Øøÿÿÿÿ8å¸ì¼1
+ˆc:S995T"jMake the type of this parameter a pointer-to-const. The current type of "fi" is "struct fuse_file_info *".(Âƒ½»úÿÿÿÿ8è¸ì¼1
+ƒc:S995e"jMake the type of this parameter a pointer-to-const. The current type of "fi" is "struct fuse_file_info *".(ÃÊÖø8è¸ì¼1
+ˆc:S995q"jMake the type of this parameter a pointer-to-const. The current type of "fi" is "struct fuse_file_info *".(Û…¶Øøÿÿÿÿ8é¸ì¼1

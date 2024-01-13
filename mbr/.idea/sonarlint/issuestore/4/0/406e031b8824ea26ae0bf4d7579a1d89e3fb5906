@@ -1,0 +1,5 @@
+
+vc:S2275>"\format specifies type 'long' but the argument has type 'uint64_t' (aka 'unsigned long long')(ªÔÙŽ8úí€¿®1
+wc:S995W"YMake the type of this parameter a pointer-to-const. The current type of "mbr" is "MBR *".(Â´¯€øÿÿÿÿ8ƒ”¢¿®1
+Mc:S2095*"3Opened stream never closed. Potential resource leak(—Ä¯”8‡Ú›½®1
+Fc:S3584*",Potential leak of memory pointed to by 'mbr'(—Ä¯”8‡Ú›½®1
